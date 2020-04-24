@@ -29,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Hello2">
+  <component name="RunManager" selected="Application.Login">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Hello" />
       <module name="gitPractice3" />
@@ -56,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Login" />
+      <module name="gitPractice3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.Hello2" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -94,22 +108,22 @@
       <screen x="0" y="23" width="1440" height="816" />
     </state>
     <state x="100" y="123" width="1228" height="615" key="DiffContextDialog/0.23.1440.816@0.23.1440.816" timestamp="1587755627368" />
-    <state width="1386" height="210" key="GridCell.Tab.0.bottom" timestamp="1587755684316">
+    <state width="1386" height="210" key="GridCell.Tab.0.bottom" timestamp="1587757829467">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1386" height="210" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1587755684316" />
-    <state width="1386" height="210" key="GridCell.Tab.0.center" timestamp="1587755684315">
+    <state width="1386" height="210" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1587757829467" />
+    <state width="1386" height="210" key="GridCell.Tab.0.center" timestamp="1587757829465">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1386" height="210" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1587755684315" />
-    <state width="1386" height="210" key="GridCell.Tab.0.left" timestamp="1587755684314">
+    <state width="1386" height="210" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1587757829465" />
+    <state width="1386" height="210" key="GridCell.Tab.0.left" timestamp="1587757829464">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1386" height="210" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1587755684314" />
-    <state width="1386" height="210" key="GridCell.Tab.0.right" timestamp="1587755684316">
+    <state width="1386" height="210" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1587757829464" />
+    <state width="1386" height="210" key="GridCell.Tab.0.right" timestamp="1587757829466">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1386" height="210" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1587755684316" />
+    <state width="1386" height="210" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1587757829466" />
     <state x="379" y="163" key="search.everywhere.popup" timestamp="1587757057366">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
